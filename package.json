@@ -1,0 +1,6 @@
+{
+  "name": "test-docs",
+  "scripts": {
+    "start": "npx mintlify dev"
+  }
+}
